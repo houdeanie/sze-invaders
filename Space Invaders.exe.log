@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "spaceinvaders.py", line 22, in <module>
+    for name in IMG_NAMES}
+  File "spaceinvaders.py", line 22, in <dictcomp>
+    for name in IMG_NAMES}
+pygame.error: Couldn't open images/enemy1_1.png
